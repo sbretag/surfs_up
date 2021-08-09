@@ -22,7 +22,7 @@ W. Avy would like us to continue with our analysis by including more information
 
 ### Key Differences
 
-1. 
+1. Although there are a significant amount of observations for both December and June periods with 1500+, June has roughly 200 more observations than December.  Given that December has one more day than June I question the data source since weather observations should be fairly automated.  
 2.
 3.
 
